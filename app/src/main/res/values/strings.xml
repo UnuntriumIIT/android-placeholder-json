@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VSomaku</string>
+    <string name="posts_fragment_title">Posts</string>
+    <string name="post_info_fragment_title">Post info</string>
+    <string name="user_info_fragment_title">User info</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
